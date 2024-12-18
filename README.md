@@ -1,6 +1,8 @@
-# About
+## About
 Chess board created with HTML and CSS.
 
-# Screenshot
+## Screenshot
 ![](chessboard/chessboard.png)
 
+## License
+This project is under license from MIT. For more details, see the LICENSE file.
